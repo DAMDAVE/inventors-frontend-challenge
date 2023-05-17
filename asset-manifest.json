@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/inventors-frontend-developers/static/css/main.073c9b0a.css",
+    "main.js": "/inventors-frontend-developers/static/js/main.8277d75e.js",
+    "static/js/787.0299ffbc.chunk.js": "/inventors-frontend-developers/static/js/787.0299ffbc.chunk.js",
+    "static/media/logo.svg": "/inventors-frontend-developers/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/inventors-frontend-developers/index.html",
+    "main.073c9b0a.css.map": "/inventors-frontend-developers/static/css/main.073c9b0a.css.map",
+    "main.8277d75e.js.map": "/inventors-frontend-developers/static/js/main.8277d75e.js.map",
+    "787.0299ffbc.chunk.js.map": "/inventors-frontend-developers/static/js/787.0299ffbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8277d75e.js"
+  ]
+}
