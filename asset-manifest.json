@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/inventors-frontend-challenge/static/css/main.c64d88ad.css",
-    "main.js": "/inventors-frontend-challenge/static/js/main.2061723f.js",
+    "main.css": "/inventors-frontend-challenge/static/css/main.7f283307.css",
+    "main.js": "/inventors-frontend-challenge/static/js/main.a033f397.js",
     "static/js/787.0299ffbc.chunk.js": "/inventors-frontend-challenge/static/js/787.0299ffbc.chunk.js",
     "static/media/Logo.svg": "/inventors-frontend-challenge/static/media/Logo.340368e6552f1308c9ef94ae22fc37cb.svg",
     "index.html": "/inventors-frontend-challenge/index.html",
@@ -11,13 +11,12 @@
     "static/media/Mark.svg": "/inventors-frontend-challenge/static/media/Mark.ab5da0aebaa34e587acb73fe56f01ccf.svg",
     "static/media/Plus.svg": "/inventors-frontend-challenge/static/media/Plus.eb0a5244d03c448a07d647588970f928.svg",
     "static/media/Pause.svg": "/inventors-frontend-challenge/static/media/Pause.c8b4590deb8965242ac79c62845af7ce.svg",
-    "static/media/Play.svg": "/inventors-frontend-challenge/static/media/Play.645fd33ca35c0c5ec3a1b4a2e4db05de.svg",
-    "main.c64d88ad.css.map": "/inventors-frontend-challenge/static/css/main.c64d88ad.css.map",
-    "main.2061723f.js.map": "/inventors-frontend-challenge/static/js/main.2061723f.js.map",
+    "main.7f283307.css.map": "/inventors-frontend-challenge/static/css/main.7f283307.css.map",
+    "main.a033f397.js.map": "/inventors-frontend-challenge/static/js/main.a033f397.js.map",
     "787.0299ffbc.chunk.js.map": "/inventors-frontend-challenge/static/js/787.0299ffbc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c64d88ad.css",
-    "static/js/main.2061723f.js"
+    "static/css/main.7f283307.css",
+    "static/js/main.a033f397.js"
   ]
 }
