@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/inventors-frontend-challenge/static/css/main.7f283307.css",
-    "main.js": "/inventors-frontend-challenge/static/js/main.a033f397.js",
+    "main.css": "/inventors-frontend-challenge/static/css/main.32d42306.css",
+    "main.js": "/inventors-frontend-challenge/static/js/main.2a05c043.js",
     "static/js/787.0299ffbc.chunk.js": "/inventors-frontend-challenge/static/js/787.0299ffbc.chunk.js",
     "static/media/Logo.svg": "/inventors-frontend-challenge/static/media/Logo.340368e6552f1308c9ef94ae22fc37cb.svg",
+    "static/media/Check.svg": "/inventors-frontend-challenge/static/media/Check.5ea7768dccc9e5ef031c25a8bbbdd703.svg",
     "index.html": "/inventors-frontend-challenge/index.html",
     "static/media/Search.svg": "/inventors-frontend-challenge/static/media/Search.dca2820426619b108d334b70e8113acd.svg",
     "static/media/RightArrow.svg": "/inventors-frontend-challenge/static/media/RightArrow.686ece404c893bce0a837e1b97ee0d69.svg",
@@ -11,12 +12,12 @@
     "static/media/Mark.svg": "/inventors-frontend-challenge/static/media/Mark.ab5da0aebaa34e587acb73fe56f01ccf.svg",
     "static/media/Plus.svg": "/inventors-frontend-challenge/static/media/Plus.eb0a5244d03c448a07d647588970f928.svg",
     "static/media/Pause.svg": "/inventors-frontend-challenge/static/media/Pause.c8b4590deb8965242ac79c62845af7ce.svg",
-    "main.7f283307.css.map": "/inventors-frontend-challenge/static/css/main.7f283307.css.map",
-    "main.a033f397.js.map": "/inventors-frontend-challenge/static/js/main.a033f397.js.map",
+    "main.32d42306.css.map": "/inventors-frontend-challenge/static/css/main.32d42306.css.map",
+    "main.2a05c043.js.map": "/inventors-frontend-challenge/static/js/main.2a05c043.js.map",
     "787.0299ffbc.chunk.js.map": "/inventors-frontend-challenge/static/js/787.0299ffbc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f283307.css",
-    "static/js/main.a033f397.js"
+    "static/css/main.32d42306.css",
+    "static/js/main.2a05c043.js"
   ]
 }
