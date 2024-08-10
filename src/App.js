@@ -5,7 +5,7 @@ import Movies from './Components/Movies/Movie';
 import {useEffect, useState } from 'react';
 
 function App () {
-const api_key = '1ee185c3dac0558dc216d87405e84a0f';
+const api_key = '3a0702fe349a3f4b1ddfc57e03faa83d';
 let [page, setPage] = useState(1);
 let [i, setI]= useState(0);
 let [data, setData] = useState(null);
